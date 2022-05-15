@@ -1,1 +1,156 @@
-{"data":[{"id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=","name":"masterPortfolio","createdAt":"2020-03-06T16:26:54Z","url":"https://github.com/ashutosh1919/masterPortfolio","description":"The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=","name":"truvisory","createdAt":"2020-06-03T11:53:55Z","url":"https://github.com/ashutosh1919/truvisory","description":"This project is meant to provide resources to users who want to access good LinkedIn posts which contains resources to learn any Technology, Design, Self-Branding, Motivation etc. You can visit project by:","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=","name":"ml-data-bot","createdAt":"2020-06-19T14:24:55Z","url":"https://github.com/ashutosh1919/ml-data-bot","description":"Chatbot which helps you to get important statistics from the data to get insights to build Machine learning, Deep learning and Statistical models","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},{"id":"MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=","name":"Stock-Prediction-using-LSTM","createdAt":"2018-11-03T05:00:56Z","url":"https://github.com/ashutosh1919/Stock-Prediction-using-LSTM","description":"This Project is predicting stocks for 32 companies with error less than 1% using LSTM Networks.","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"},{"name":"Jupyter Notebook","iconifyClass":"logos-jupyter"}]},{"id":"MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=","name":"Pick-Parser","createdAt":"2019-08-13T13:13:00Z","url":"https://github.com/dsc-iiitdmk/Pick-Parser","description":"This Project is to create a tool which can parse the Resumes and transform them into our own templates","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},{"id":"MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=","name":"Survival_3D_Game","createdAt":"2019-04-18T17:25:51Z","url":"https://github.com/ashutosh1919/Survival_3D_Game","description":"Survival Game using Unity3D","isFork":false,"languages":[{"name":"C#","iconifyClass":"logos-c-sharp"}]}]}
+{
+    "data": [
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+        "name": "Ace Grinding Admin",
+        "createdAt": "2021-11-01T16:26:54Z",
+        "url": "https://acegrinding.net/",
+        "description": "The application is build for ace-grinidng company to manage their sales and their operations, with the help of our web based application they are now able to manage things in much better way",
+        "isFork": false,
+        "languages": [
+          {
+            "name": "Nest.js",
+            "iconifyClass": "logos:nestjs"
+          },
+          {
+            "name": "React",
+            "iconifyClass": "logos:react"
+          },
+          {
+            "name": "Graphql",
+            "iconifyClass": "vscode-icons:file-type-typescript"
+          },
+          {
+            "name": "TS",
+            "iconifyClass": "logos:graphql"
+          }
+        ]
+      },
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+        "name": "Pocketnote",
+        "createdAt": "2021-05-01T11:53:55Z",
+        "url": "https://pocketnote.com.au/",
+        "description": "Pocketnote connect parents and students with the highest quality tutoring talent in the country.",
+        "isFork": false,
+        "languages": [
+            {
+                "name": "Node.js",
+                "iconifyClass": "logos:nodejs"
+              },
+              {
+                "name": "React",
+                "iconifyClass": "logos:react"
+              },
+              {
+                "name": "TS",
+                "iconifyClass": "vscode-icons:file-type-typescript"
+              },
+              {
+                "name": "Graphql",
+                "iconifyClass": "logos:graphql"
+              }
+        ]
+      },
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+        "name": "Drivo",
+        "createdAt": "2021-06-01T14:24:55Z",
+        "url": "https://drivo.com.au/",
+        "description": "Application that makes easy for hotels and resturant to manage their parking and generate revenues",
+        "isFork": false,
+        "languages": [
+            {
+                "name": "Nest.js",
+                "iconifyClass": "logos:nestjs"
+              },
+              {
+                "name": "React",
+                "iconifyClass": "logos:react"
+              },
+              {
+                "name": "Graphql",
+                "iconifyClass": "vscode-icons:file-type-typescript"
+              },
+              {
+                "name": "TS",
+                "iconifyClass": "logos:graphql"
+              }
+        ]
+      },
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+        "name": "KBRS Capital Financial Product",
+        "createdAt": "2022-01-01T05:00:56Z",
+        "url": "https://kbrscapital.ca/",
+        "description": "The project is buid for kbrs capital company, a product that can be used by the financial planners from all over the canada",
+        "isFork": false,
+        "languages": [
+          {
+            "name": "Python",
+            "iconifyClass": "logos-python"
+          },
+          {
+            "name": "React",
+            "iconifyClass": "logos:react"
+          },
+          {
+            "name": "TS",
+            "iconifyClass": "vscode-icons:file-type-typescript"
+          }
+        ]
+      },
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
+        "name": "BIM And Computer Vision",
+        "createdAt": "2020-02-01T13:13:00Z",
+        "url": "https://github.com/Hamzaaasif/BIM-Computer-vision",
+        "description": "Automation of 2D drawing into 3D architecutre floor plan using computer vision ",
+        "isFork": false,
+        "languages": [
+          {
+            "name": "Python",
+            "iconifyClass": "logos-python"
+          },
+          {
+            "name": "Flask",
+            "iconifyClass": "logos-flask"
+          },
+          {
+            "name": "Tensor Flow",
+            "iconifyClass": "logos:tensorflow"
+          },
+          {
+            "name": "CNN",
+            "iconifyClass": "eos-icons:neural-network"
+          }
+        ]
+      },
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
+        "name": "Sage Advice",
+        "createdAt": "2022-05-01T17:25:51Z",
+        "url": "https://github.com/hamzaaasif",
+        "description": "Social media app that connect people and hire advisors from all over the world",
+        "isFork": false,
+        "languages": [
+            {
+                "name": "Node.js",
+                "iconifyClass": "logos:nodejs"
+              },
+              {
+                "name": "React",
+                "iconifyClass": "logos:react"
+              },
+              {
+                "name": "TS",
+                "iconifyClass": "vscode-icons:file-type-typescript"
+              },
+              {
+                  "name":"MUI",
+                  "iconifyClass": "simple-icons:mui"
+              }
+        ]
+      }
+    ]
+  }
